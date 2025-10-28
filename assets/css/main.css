@@ -196,6 +196,7 @@ input, select, textarea {
 		line-height: 1.375;
 		letter-spacing: -0.05em;
 		margin: 0 0 1rem 0;
+		color: #25193F;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -332,7 +333,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
+		color: #E22E69;
 	}
 
 	blockquote {
@@ -2196,8 +2197,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			box-shadow: inset 0 0 0 1px #E54A24;
+			color: #E54A24 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2205,9 +2206,9 @@ input, select, textarea {
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(71, 211, 229, 0.2);
-			box-shadow: inset 0 0 0 1px #47D3E5;
-			color: #47D3E5 !important;
+			background-color: rgba(231, 141, 25, 0.2);
+			box-shadow: inset 0 0 0 1px #E78D19;
+			color: #E78D19 !important;
 		}
 
 		input[type="submit"].primary,
@@ -6390,7 +6391,7 @@ input, select, textarea {
 		}
 
 		.gallery.style1 h1, .gallery.style1 h2, .gallery.style1 h3, .gallery.style1 h4, .gallery.style1 h5, .gallery.style1 h6 {
-			color: #ffffff;
+			color: #25193F;
 		}
 
 		.gallery.style1 blockquote {
@@ -6714,7 +6715,7 @@ input, select, textarea {
 		}
 
 		.gallery.style2 h1, .gallery.style2 h2, .gallery.style2 h3, .gallery.style2 h4, .gallery.style2 h5, .gallery.style2 h6 {
-			color: #ffffff;
+			color: #25193F;
 		}
 
 		.gallery.style2 blockquote {
@@ -8277,7 +8278,7 @@ input, select, textarea {
 			}
 
 			#wrapper > .invert h1, #wrapper > .invert h2, #wrapper > .invert h3, #wrapper > .invert h4, #wrapper > .invert h5, #wrapper > .invert h6 {
-				color: #ffffff;
+				color: #25193F;
 			}
 
 			#wrapper > .invert blockquote {
